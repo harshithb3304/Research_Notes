@@ -34,7 +34,7 @@ e. Evaluate the loss and update model parameters via backpropagation
 
 ALGORITHM
 
-![Algorithm 1 RLCS for LLM](Pasted image 20250707005324.png)
+![Algorithm 1 RLCS for LLM](Algorithm.png)
 ---
 
 # 4. Results Analysis
@@ -46,7 +46,7 @@ The base model + the fine tuned model was compared with same settings and a cons
 The fine tuned model prevented the step by step reasoning method such as "Let's Think step by step" but instead found the answer early on and gave the response with confidence and short.  
 There were substantial accuracy gains on the dataset in the fine tuned model compared to base model.
 
-![Results Table](Pasted image 20250707005354.png)
+![Results Table](ComparisonStats.png)
 
 ---
 
